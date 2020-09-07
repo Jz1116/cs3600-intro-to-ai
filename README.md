@@ -64,6 +64,6 @@ This project consists of four parts which correspond to four programming assignm
 #### Optimization with Machine Learning
 
 #### Details
-- The project involves the implementation of decision tree (a popular supervised method in machine learning).
+- The project involves the implementation of decision tree (a popular supervised learning method in machine learning).
 - I used the decision tree implemented to run a few datasets and then wrote a report to evaluate the performance/observation. 
 
