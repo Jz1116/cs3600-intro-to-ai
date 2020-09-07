@@ -61,9 +61,9 @@ This project consists of four parts which correspond to four programming assignm
   
 ## Project IV
 
-### Optimization with Machine Learning
+#### Optimization with Machine Learning
 
-### Details
-This project involves the implementation of decision tree (a popular supervised method in machine learning).
-Furthermore, I used the decision tree that I implemented to run a few datasets and then wrote a report to evaluate the performance/observation. 
+#### Details
+- The project involves the implementation of decision tree (a popular supervised method in machine learning).
+- I used the decision tree implemented to run a few datasets and then wrote a report to evaluate the performance/observation. 
 
