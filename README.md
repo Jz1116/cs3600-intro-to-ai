@@ -4,7 +4,7 @@
 **Warning: Please respect the Honor Code. You should submit your own work, and I will not take any responsibility
 if you choose to make violation.**
 
-This project consists of four parts which correspond to four programming assignments that I have completed.
+This course consists of four projects which correspond to four programming assignments that I have completed.
 
 ## Project I
 
